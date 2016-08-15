@@ -4,16 +4,21 @@ main:
     url: /docs/multimedia-portfolio/
 
 
+
   - title: "Articles"
     url: /articles/
+
 
 
   - title: "Travel"
     url: /travel/
 
 
+
   - title: "About me"
     url: /about-me/
+
+
 
   - title: "External Link"
     url: https://google.com
