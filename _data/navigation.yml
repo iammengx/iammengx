@@ -13,10 +13,10 @@ main:
     url: /tags/
 
   - title: "Pages"
-    url: /page-archive/
+    url: /pages/
 
   - title: "Collections"
-    url: /collection-archive/
+    url: /collections/
 
   - title: "External Link"
     url: https://google.com
